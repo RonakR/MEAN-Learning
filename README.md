@@ -6,7 +6,7 @@
 
 ## Articles
 
-~~* [Full-Stack JavaScript With MEAN And Yeoman](http://addyosmani.com/blog/full-stack-javascript-with-mean-and-yeoman/)~~
+* ~~[Full-Stack JavaScript With MEAN And Yeoman](http://addyosmani.com/blog/full-stack-javascript-with-mean-and-yeoman/)~~
 * [Build a real-time polls application with Node.js, Express, AngularJS, and MongoDB](http://www.ibm.com/developerworks/library/wa-nodejs-polling-app/)
 * [AngularJS Tutorial: Learn to Build Modern Web Apps](http://www.thinkster.io/angularjs/GUIDJbpIie/angularjs-tutorial-learn-to-build-modern-web-apps)
 * [Introduction to the MEAN Stack, Part One: Setting Up Your Tools](http://thecodebarbarian.wordpress.com/2013/07/22/introduction-to-the-mean-stack-part-one-setting-up-your-tools/)
